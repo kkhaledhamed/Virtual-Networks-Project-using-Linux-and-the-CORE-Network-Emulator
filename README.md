@@ -171,6 +171,7 @@ xlabel('Window Size (KB)');
 legend('Throughput', 'Retransmissions');
 grid on;
 set(gcf, 'Position', [100 100 900 500]);
+```
 ---
 
 ## 📈 Graphs and Figures
