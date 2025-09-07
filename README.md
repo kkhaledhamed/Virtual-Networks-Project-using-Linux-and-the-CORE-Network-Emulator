@@ -211,7 +211,3 @@ This project highlighted:
 - **Linux Networking Tools**
 - **Matlab**
 
----
-
-## 📫 Contact
-Feel free to reach out via university email for feedback or collaboration.
