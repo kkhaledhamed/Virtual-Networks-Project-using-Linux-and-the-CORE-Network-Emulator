@@ -1,4 +1,4 @@
-% Data from your experiments
+% Data from experiments
 window_sizes = [1, 2, 3, 4, 5, 6, 12, 16, 24, 32]; % in KB
 throughput = [1.8811, 2.532, 4.7815, 4.3201, 4.236, 0.1196, 1.3701, 0.312475, 0.166702, 0.160768]; % in Mbits/s
 retransmissions = [0, 0, 0, 0, 1, 348, 1222, 429, 317, 384]; 
@@ -40,4 +40,5 @@ title('Network Performance vs Window Size');
 xlabel('Window Size (KB)');
 legend('Throughput', 'Retransmissions');
 grid on;
+
 set(gcf, 'Position', [100 100 900 500]);
